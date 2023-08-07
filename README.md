@@ -16,5 +16,31 @@ Along with the Proxy Inspector tool, a text file (.txt) is provided, comprising 
 It is essential to note that while the provided file is beneficial, users are encouraged to exercise caution and conduct their due diligence in verifying the authenticity and reliability of the proxies listed. 
 For utmost control and flexibility, the file can and must be  customized to incorporate user-specific proxies for comprehensive and tailored testing (so if a user wants to test their own proxies, they must modify the proxies.txt and add them to the file)
 
-# Download
-```````
+# Download Prerequisites
+
+* ```pip install requests```
+* ```pip install colorama```
+
+# Linux & Termux & MacOS
+
+* ```git clone https://github.com/ParzivalHack/Proxy-Inspector```
+* ```cd Proxy-Inspector```
+* ```python proxyinspect.py```
+
+# Windows
+
+* Just download (almost) ALL the files in this repository (the proxyinspect.py, the proxies.txt file and the run.bat file) and be sure to keep them all in the same directory on your pc (i suggest putting them on your Desktop)
+* Double-click on the run.bat file to execute the tool
+* Once executed in cmd (and after modifying the proxies.txt file with your own proxies), just press ENTER to start the tool
+
+# License AGPL-3.0
+
+Features of the GNU Affero General Public License (AGPL-3.0):
+
+* Copyleft: Like the GPL, the AGPL-3.0 is a copyleft license. This means that if you modify or extend the software licensed under AGPL-3.0, you must distribute those modifications under the same license. This ensures that the source code remains open and accessible to everyone.
+
+* Network Interaction: One key feature that distinguishes the AGPL-3.0 from the regular GPL is its "network interaction" clause. If you run a modified AGPL-licensed software on a server and provide access to it over a network, you must also make the modified source code available to the users who interact with that software over the network. This closes the so-called "application service provider (ASP) loophole" that exists in the regular GPL.
+
+* Distribution and Use: AGPL-3.0 allows users to freely use, modify, and distribute the software, provided they comply with the license's terms, including the distribution of the source code for any changes.
+
+* Compatibility: The AGPL-3.0 is not compatible with all other open-source licenses, particularly those that do not require derivative works to be distributed under the same license. If you use AGPL-3.0 code in your project, your project must be released under AGPL-3.0 or a compatible license.
