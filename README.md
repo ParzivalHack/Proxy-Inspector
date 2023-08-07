@@ -14,7 +14,7 @@ By empowering users with accurate and actionable data, the Proxy Inspector embod
 Along with the Proxy Inspector tool, a text file (.txt) is provided, comprising a substantial collection of more than 5000 proxies, available for testing purposes. While this file has not undergone exhaustive testing, it's nonetheless complete and offers a starting point for users to initiate their proxy verification process. This file serves as a valuable resource for users to expedite their evaluation of various proxies. 
 
 It is essential to note that while the provided file is beneficial, users are encouraged to exercise caution and conduct their due diligence in verifying the authenticity and reliability of the proxies listed. 
-For utmost control and flexibility, the file can and must be  customized to incorporate user-specific proxies for comprehensive and tailored testing (so if a user wants to test their own proxies, they must modify the proxies.txt and add them to the file)
+For utmost control and flexibility, the file can and must be  customized to incorporate user-specific proxies for comprehensive and tailored testing (so if a user wants to test their own proxies, they must modify the proxies.txt and add them to the file).
 
 # Download Prerequisites
 
@@ -28,10 +28,10 @@ For utmost control and flexibility, the file can and must be  customized to inco
 * ```python proxyinspect.py```
 
 # Windows
-
-* Just download (almost) ALL the files in this repository (the proxyinspect.py, the proxies.txt file and the run.bat file) and be sure to keep them all in the same directory on your pc (i suggest putting them on your Desktop)
-* Double-click on the run.bat file to execute the tool
-* Once executed in cmd (and after modifying the proxies.txt file with your own proxies), just press ENTER to start the tool
+* Search in your pc the "Microsoft Store" and, once opened, search "Python" and install "Python 3.11".
+* Just download (almost) ALL the files in this repository (the proxyinspect.py, the proxies.txt file and the run.bat file) and be sure to keep them all in the same directory on your pc (i suggest putting them on your Desktop).
+* Double-click on the run.bat file to execute the tool.
+* Once executed in cmd (and after modifying the proxies.txt file with your own proxies), just press ENTER to start the tool.
 
 # License AGPL-3.0
 
