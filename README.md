@@ -1,3 +1,5 @@
+![image](https://github.com/ParzivalHack/Proxy-Inspector/assets/82817793/de2b460b-1dd3-49ef-a5af-7f8da7b4d830)
+
 # Proxy-Inspector
 The Proxy Inspector is an advanced and feature-rich Python Command-Line Interface (CLI) tool meticulously engineered to provide comprehensive and accurate assessments of proxy validity and anonymity. Leveraging the robustness of Python, this tool sets itself apart from conventional proxy checkers, offering sophisticated functionalities that cater to the discerning needs of tech-savvy users.
 
