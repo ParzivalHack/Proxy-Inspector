@@ -69,5 +69,6 @@ def main():
 
 if __name__ == "__main__":
     ascii_art()
-    start = input("Press Enter to start checking proxies...")
+    print("DISCLAIMER:\nThe accuracy of this tool depends on the restrictions of the proxy you are testing.\nMany public proxies use IP Rotation, Rate Limiting and Server Load Limiting which sometimes prevents the successfull connection to them.")
+    start = input("\nPress Enter to start checking proxies...")
     main()
