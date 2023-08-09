@@ -30,7 +30,7 @@ For utmost control and flexibility, the file can and must be  customized to inco
 * ```python proxyinspect.py```
 
 # Windows
-* Search in your pc the "Microsoft Store" and, once opened, search "Python" and install "Python 3.11".
+* Search in your pc the "Microsoft Store" and, once opened, search "Python" and install "Python 3.10".
 * Just download (almost) ALL the files in this repository (the proxyinspect.py, the proxies.txt file and the run.bat file) and be sure to keep them all in the same directory on your pc (i suggest putting them on your Desktop).
 * Double-click on the run.bat file to execute the tool.
 * Once executed in cmd (and after modifying the proxies.txt file with your own proxies), just press ENTER to start the tool.
